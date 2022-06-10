@@ -23,6 +23,12 @@ namespace TypesAndVariables
             double number5 = 10;
             //decimal 
             decimal number6 = 10.4m;
+            //var is defined as first assigned type variable.
+            var number7 = 10;
+            //this code below will not work.
+            // number7 = "String"
+            //but this will work
+            // number7 = 'A' because char has a value of integer in ASCII table
             Console.WriteLine("Number 1 is {0}",number1);
             Console.WriteLine("Number 2 is {0}", number2);
             Console.WriteLine("Number 3 is {0}", number3); 
@@ -34,6 +40,7 @@ namespace TypesAndVariables
             Console.WriteLine("The character is {0}", character);
             Console.WriteLine("Number 5 is {0}", number5);
             Console.WriteLine("Number 6 is {0}", number6);
+            Console.WriteLine("Number 7 is {0}", number7);
             Console.ReadLine();
         }
     }
