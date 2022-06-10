@@ -1,0 +1,14 @@
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\bin\Debug\netcoreapp3.1\ConditionalBlocks.exe
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\bin\Debug\netcoreapp3.1\ConditionalBlocks.deps.json
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\bin\Debug\netcoreapp3.1\ConditionalBlocks.runtimeconfig.json
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\bin\Debug\netcoreapp3.1\ConditionalBlocks.runtimeconfig.dev.json
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\bin\Debug\netcoreapp3.1\ConditionalBlocks.dll
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\bin\Debug\netcoreapp3.1\ConditionalBlocks.pdb
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\obj\Debug\netcoreapp3.1\ConditionalBlocks.csproj.AssemblyReference.cache
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\obj\Debug\netcoreapp3.1\ConditionalBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\obj\Debug\netcoreapp3.1\ConditionalBlocks.AssemblyInfoInputs.cache
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\obj\Debug\netcoreapp3.1\ConditionalBlocks.AssemblyInfo.cs
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\obj\Debug\netcoreapp3.1\ConditionalBlocks.csproj.CoreCompileInputs.cache
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\obj\Debug\netcoreapp3.1\ConditionalBlocks.dll
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\obj\Debug\netcoreapp3.1\ConditionalBlocks.pdb
+C:\Users\mukir\source\repos\ConditionalBlocks\ConditionalBlocks\obj\Debug\netcoreapp3.1\ConditionalBlocks.genruntimeconfig.cache
