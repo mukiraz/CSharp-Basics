@@ -64,7 +64,7 @@ namespace _004_ref_and_out
 
         static int Addout(out int number3, int number2)
         {
-            // Here the number1 variable in the main scope and in this scope will be exactly the same because they will show the same
+            // We have to set number3 variable here once.
             number3 = 30;
             return number3 + number2;
         }
