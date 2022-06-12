@@ -1,0 +1,28 @@
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.AssemblyReference.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.AssemblyReference.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\obj\Debug\netcoreapp3.1\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\004 Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
