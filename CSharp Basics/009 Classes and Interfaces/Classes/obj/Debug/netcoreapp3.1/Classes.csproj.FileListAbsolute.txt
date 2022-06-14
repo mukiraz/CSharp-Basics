@@ -1,0 +1,14 @@
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache

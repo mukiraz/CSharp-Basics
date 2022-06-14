@@ -1,0 +1,10 @@
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.AssemblyReference.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\obj\Debug\ChessBoard.frmChessBoard.resources
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Properties.Resources.resources
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.GenerateResource.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
