@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Classes</id>
+    <version>1.0.0</version>
+    <authors>Classes</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json" target="lib\netcoreapp3.1\Classes.runtimeconfig.json" />
+    <file src="D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\Classes\bin\Debug\netcoreapp3.1\Classes.dll" target="lib\netcoreapp3.1\Classes.dll" />
+  </files>
+</package>
