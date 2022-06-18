@@ -1,0 +1,14 @@
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\bin\Debug\netcoreapp3.1\InterfaceUsage2.exe
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\bin\Debug\netcoreapp3.1\InterfaceUsage2.deps.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\bin\Debug\netcoreapp3.1\InterfaceUsage2.runtimeconfig.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\bin\Debug\netcoreapp3.1\InterfaceUsage2.runtimeconfig.dev.json
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\bin\Debug\netcoreapp3.1\InterfaceUsage2.dll
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\bin\Debug\netcoreapp3.1\InterfaceUsage2.pdb
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\obj\Debug\netcoreapp3.1\InterfaceUsage2.csproj.AssemblyReference.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\obj\Debug\netcoreapp3.1\InterfaceUsage2.GeneratedMSBuildEditorConfig.editorconfig
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\obj\Debug\netcoreapp3.1\InterfaceUsage2.AssemblyInfoInputs.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\obj\Debug\netcoreapp3.1\InterfaceUsage2.AssemblyInfo.cs
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\obj\Debug\netcoreapp3.1\InterfaceUsage2.csproj.CoreCompileInputs.cache
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\obj\Debug\netcoreapp3.1\InterfaceUsage2.dll
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\obj\Debug\netcoreapp3.1\InterfaceUsage2.pdb
+D:\020 Bilgisasyar Programcılığı\Kurslar\CSharp Basics\CSharp Basics\009 Classes and Interfaces\InterfaceUsage2\obj\Debug\netcoreapp3.1\InterfaceUsage2.genruntimeconfig.cache

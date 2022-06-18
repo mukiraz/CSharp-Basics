@@ -35,6 +35,21 @@ namespace InterfaceUsage1
 
             customerManager.Add(new OracleCustomerDal());
 
+            //Scenerio: We want to update same data both MySqlServer, SQLServer, OracleServer
+
+            ICustomerDal[] customerDals = new ICustomerDal[3]
+            {
+                new MySqlServerCustomerDal(),
+                new OracleCustomerDal(),
+                new SqlServerCustumerDal()
+            };
+
+
+            foreach (var customerDal in customerDals)
+            {
+                customerDal.Update();
+            }
+
             Console.ReadKey();
 
         }
